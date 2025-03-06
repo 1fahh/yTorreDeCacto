@@ -10,4 +10,4 @@
 # Por exemplo: "gm|gamemode"
 # Você pode criar quantas aliases quiser.
 commands:
-  tower: 'torre|torres|tower|towers'
+  tower: 'torre|tower|'
