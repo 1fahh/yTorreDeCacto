@@ -20,7 +20,6 @@ chat:
     &a/tower give &8- &7Dar uma estrutura para um/todos os jogadores.
     &a/tower reload &8- &7Recarrega as configurações.
 
-  structure-give: '&aVocê deu &7{amount}x {structure}&a para o jogador &7{player}&a.'
   structure-received: '&aVocê recebeu &7{amount}x {structure}&a.'
   structure-list: |
     &cEstrutura não encontrada.
